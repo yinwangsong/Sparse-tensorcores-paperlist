@@ -8,7 +8,7 @@ Nowadays, the COTS AI accelerators are turning to the direction of integrating m
 
 \[ASPLOS'24\] DTC-SpMM: Bridging the Gap in Accelerating GeneralSparse Matrix Multiplication with Tensor Cores
 
-\[EuroPar'18\] Design Principles for Sparse Matrix Multiplication on the GPU
+\[VLDB'24\] Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity --- CUDA Core Decompression, tensor core full compute
 
 
 ## AMD/Intel
@@ -18,4 +18,8 @@ Nowadays, the COTS AI accelerators are turning to the direction of integrating m
 
 \[PPoPP'26\] ASM-SpMM: Unleashing the Potential of Arm SME for Sparse Matrix Multiplication Acceleration --- SME+SMV for any pattern sparsity. 
 
+
+
+------
 This repo will be actively maintained.
+------
